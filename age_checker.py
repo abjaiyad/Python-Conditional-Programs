@@ -9,7 +9,8 @@ current_year = datetime.datetime.now().year
 
 # Calculate the age of the person
 age = current_year - year_of_birth
-
+# Show user age
+print("You are", age, "years old.")
 # Check if the person is eligible to vote
 if age >= 18:
     print("You are eligible to vote!")
