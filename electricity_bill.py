@@ -1,4 +1,4 @@
-# Problem 3 — Electricity Bill
+# Electricity Bill
 
 # Input units:
 
@@ -14,8 +14,8 @@ unit = int(input("Enter the number of units: "))
 if unit <= 100:
     total_bill = unit * 5
 elif unit <= 200:
-    total_bill = (unit * 5) + (unit - 100) * 7
+    total_bill = 500 + (unit - 100) * 7
 else:
-    total_bill = (unit * 5) + (unit * 7) + (unit - 200) * 10
+    total_bill = 1200 + (unit - 200) * 10
 
 print(f"Your total electricity bill is: ₹{total_bill}")
