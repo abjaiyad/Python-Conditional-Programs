@@ -1,9 +1,9 @@
-# 🟢 Problem 1 — Login System
+# Login System
 
 # Create a program:
 
-# ✅ Ask username
-# ✅ Ask password
+# Ask username
+# Ask password
 
 # Rules:
 

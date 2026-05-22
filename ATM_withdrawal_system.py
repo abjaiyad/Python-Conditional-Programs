@@ -1,4 +1,4 @@
-# 🔵 Problem 3 — ATM Withdrawal System
+# Problem 3 — ATM Withdrawal System
 
 # Take:
 
@@ -6,7 +6,6 @@
 # withdrawal amount
 
 # Rules:
-
 # If amount ≤ balance:
 # If amount ≤ 10000 → Transaction Approved
 # Else → Daily Limit Exceeded
