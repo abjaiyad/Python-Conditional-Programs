@@ -1,31 +1,65 @@
-# 🐍 Python Conditional Statement Practice
+# Python Conditional Programs
 
-Hello 👋  
-I am Amad, a BCA student passionate about AI & Programming.
+A collection of Python programs created while practicing **conditional statements and logic building**.
 
-Today I solved **20+ Python Conditional Statement problems** to strengthen my logic building skills.
+## 🚀 What I Practiced
 
-## 📚 Topics Covered
+- `if`, `elif`, and `else`
+- Nested conditions
+- Comparison and logical operators
+- Number and range checking
+- Decision-based programs
+- Basic validation and menu-driven logic
+
+## 📝 Programs
+
+The repository includes practice programs such as:
+
 - Age Checker
 - ATM System
 - BMI Calculator
-- Even Odd Checker
+- Even/Odd Checker
 - Grade System
 - Login System
 - Largest Number
 - Student Result System
 - Electricity Bill Program
-- And many more...
+- Other conditional-logic exercises
 
-## 🚀 Goal
-I am practicing Python daily to become an **AI Developer**.
+## 🧠 Learning Focus
 
-✅ More problems will be added regularly.
+The main goal of this repository is to improve **problem-solving and decision-making logic in Python** through repeated practice.
 
-## 🔗 Check All Codes
-Explore full repository here:
-👉 [git remote add origin https://github.com/abjaiyad/Python-Conditional-Programs.git]
+## ▶️ How to Run
 
----
+Clone the repository and run any Python file with:
 
-⭐ Follow my journey as I learn daily!
+```bash
+git clone https://github.com/abjaiyad/Python-Conditional-Programs.git
+cd Python-Conditional-Programs
+python filename.py
+```
+
+Replace `filename.py` with the program you want to run.
+
+## 📂 Repository Structure
+
+```text
+Python-Conditional-Programs/
+├── Python program files
+├── README.md
+└── .gitignore
+```
+
+## 🔮 Future Practice
+
+- More conditional problems
+- More real-world decision-based programs
+- Stronger problem-solving challenges
+
+## 👨‍💻 Author
+
+**Amad Bin Jaiyad**  
+BCA Final Year Student | Developer & Learner
+
+GitHub: https://github.com/abjaiyad
